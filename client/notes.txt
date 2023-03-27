@@ -1,1 +1,0 @@
-This is client repo for our MERN BLOG app
